@@ -25,7 +25,7 @@
   
 **2.** Склонировать репозиторий
 
-    https://github.com/ssetale175/Diplom   
+    https://github.com/setale175/Diplom   
  
 **3.**  Установить приложение "Мобильный хоспис" на мобильное устройство или в эмуляторе.
 
@@ -42,7 +42,7 @@
 
 
 ## Отчетная документация
-* [План по ручному и автоматизированному тестированию]()
-* [Чек-лист проверок]()
-* [Тест-кейсы]()
-* [Отчет по итогам тестирования]()
+* [План по ручному и автоматизированному тестированию](https://github.com/Cetale175/Diplom/blob/master/Plan.md)
+* [Чек-лист проверок](https://github.com/Cetale175/Diplom/blob/master/Check.xlsx)
+* [Тест-кейсы](https://github.com/Cetale175/Diplom/blob/master/Cases.xlsx)
+* [Отчет по итогам тестирования](https://github.com/Cetale175/Diplom/blob/master/Result.md)
